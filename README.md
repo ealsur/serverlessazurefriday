@@ -2,6 +2,12 @@
 
 ![Serverless geo-distributed event-based architecture sample](./images/architecture.png)
 
+## Video
+
+This repository was part of an Azure Friday episode, you can view it below:
+
+[![Watch the Azure Friday episode](http://img.youtube.com/vi/cfZUiVQIhTw/0.jpg)](http://www.youtube.com/watch?v=cfZUiVQIhTw "Azure Friday Episode")
+
 This repository contains a sample architecture that can be deployed across multiple regions and leverage Azure Cosmos DB's Multi master and Change feed features to achieve:
 
 * Local writes on all Azure Function regions
